@@ -1,0 +1,3 @@
+[submodule "childHub"]
+	path = childHub
+	url = https://github.com/deirum/childHub.git
